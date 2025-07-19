@@ -15,3 +15,9 @@ feijão
 iogurte
 batata
 banana 
+
+
+bolo
+guaraná
+leite condensado
+chocolate em pó 
